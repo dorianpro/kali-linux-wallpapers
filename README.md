@@ -2,7 +2,7 @@
 Visit me at http://dorian.pro<br />
 I hope you enjoy the wallpapers, cheers!
 
-<img src="https://www.dropbox.com/home/kali-linux-wallpapers?preview=kali-linux-wallpaper-v1.png">
+https://www.dropbox.com/home/kali-linux-wallpapers?preview=kali-linux-wallpaper-v1.png
 <img src="https://www.dropbox.com/home/kali-linux-wallpapers?preview=kali-linux-wallpaper-v2.png">
 <img src="https://www.dropbox.com/home/kali-linux-wallpapers?preview=kali-linux-wallpaper-v3.png">
 <img src="https://www.dropbox.com/home/kali-linux-wallpapers?preview=kali-linux-wallpaper-v4.png">
